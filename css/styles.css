@@ -1,0 +1,170 @@
+.navbar {
+    background-color: #8490ff;
+  }
+  .navbar-nav > li {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .banner {
+    background-color: #8490ff;
+    width: 100%;
+    margin: 0px;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .myimg {
+    height: 550px;
+    width: 300px;
+    padding-top: 15%;
+  }
+  
+  .bannerintro {
+    padding-top: 15%;
+    color: white;
+  }
+  
+
+  .hire{
+    margin-top: 5%;
+    margin-left: 5%;
+  }
+  
+  
+  
+  
+  /* skills*/
+  
+  
+  .code{
+    height: 380px;
+    width: 400px;
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right:30px;
+  
+  }
+.icon-2{ 
+    height: 380px;
+    width: 400px;
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+
+  }
+ 
+
+ .my-skills-heading{
+   text-align: center;
+ }
+
+
+
+  
+  .skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /* circle pic*/
+  
+  
+  .skill-intro{
+    background-color: #f9f9ff
+  }
+  
+  .about-pic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+  .hello{
+    margin-left: 7%;
+    padding-left: 5%;
+  }
+  
+  .aboutintro{
+   text-align: center;
+   margin-right: 50%;
+   
+  }
+  
+  
+  /* */
+  
+  
+  .white-section{
+    background-color: white;
+  }
+  .feature-boxs{
+    padding: 7%;
+    text-align: center;
+  }
+  #qualities{
+    position: relative;
+    padding: 7% 15%;
+  }
+  
+  
+  /* carousel css*/
+  
+  
+  #myprojects{
+    text-align: center;
+    padding-bottom: 2%;
+    background-color: #8490ff;
+    
+   
+  }
+  
+  
+  .project-img{
+    height: 600px;
+    width: 1000px;
+  }
+  
+  #projects{
+    background-color: #8490ff;
+    
+    text-align: center;
+    color: #fff ;
+  }
+  
+  .carousel-item{
+    padding: 7% 15%;
+  
+  }
+  
+  /* footer*/
+  
+  #footer{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #222222;
+  }
+  .social-icon{
+    margin: 20px 10px;
+  }
+  .follow-me{
+    color: #fff;
+  }
+  .copyright{
+    color: white;
+  }
