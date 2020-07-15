@@ -1,3 +1,31 @@
+.myname{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+ 
+}
+
+.my-skills-heading{
+  font-size: 2.8rem;
+  font-weight: 500;
+  text-align: center;
+   padding-top: 5%;
+   padding-bottom: 3%;
+}
+h4{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.8rem;
+}
+h5{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+}
+
+
+
 .navbar {
     background-color: #8490ff;
   }
@@ -35,6 +63,29 @@
   
   /* skills*/
   
+.about-me{
+  padding-top: 10%;
+  font-family: 'Montserrat', sans-serif
+  
+}
+
+
+.skill-expertise{
+  text-align: center;
+  padding-top: 10%;
+ padding-left: 2%;
+ padding-right: 2%;
+  padding-bottom: 7%;
+}
+
+.hello{
+  
+  font-family: 'Montserrat', sans-serif;
+ 
+
+}
+
+
   
   .code{
     height: 380px;
@@ -56,10 +107,7 @@
   }
  
 
- .my-skills-heading{
-   text-align: center;
-   padding-top: 5%;
- }
+ 
 
 
 
@@ -101,14 +149,21 @@
     padding: 50px;
   }
   .hello{
-    margin-left: 7%;
-    padding-left: 5%;
+    margin-left: 12%;
+    padding-left: 10%;
+    padding-bottom: 2%;
   }
   
   .aboutintro{
    text-align: center;
    width: 75%;
    
+  }
+  .ml-60{
+    margin-left: 60px;
+  }
+  .ml-50{
+    margin-left: 50px;
   }
   
   
@@ -133,9 +188,17 @@
   }
 
   .icon:hover{
-    color: #ffdecf;
+    color: #007bff;
   }
   
+
+.project-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.8rem;
+  font-weight: 600;
+  
+}
+
   /* carousel css*/
   
   
@@ -146,11 +209,17 @@
     
    
   }
-  
+  .project-intro{
+    padding-bottom: 6%;
+  }
+
+  .project-link{
+    padding-top: 5%;
+  }
   
   .project-img{
-    height: 600px;
-    width: 1000px;
+    height: 450px;
+    width: 800px;
   }
   
   #projects{
@@ -172,6 +241,15 @@
 .contact-intro{
   text-align: center;
   color: #8490ff;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact-intro-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  color: #8490ff;
+
   
 }
 .developing{
