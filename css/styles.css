@@ -58,6 +58,7 @@
 
  .my-skills-heading{
    text-align: center;
+   padding-top: 5%;
  }
 
 
@@ -94,6 +95,10 @@
     height: 200px;
     width: 200px;
     border-radius: 50%;
+  
+  }
+  .pd-20{
+    padding: 50px;
   }
   .hello{
     margin-left: 7%;
@@ -102,7 +107,7 @@
   
   .aboutintro{
    text-align: center;
-   margin-right: 50%;
+   width: 75%;
    
   }
   
@@ -122,6 +127,14 @@
     padding: 7% 15%;
   }
   
+  .icon{
+    color: #8490ff;
+    margin-bottom: 1rem;
+  }
+
+  .icon:hover{
+    color: #ffdecf;
+  }
   
   /* carousel css*/
   
@@ -151,6 +164,34 @@
     padding: 7% 15%;
   
   }
+
+
+.contact-me{
+  margin: 100px;
+}
+.contact-intro{
+  text-align: center;
+  color: #8490ff;
+  
+}
+.developing{
+  padding-top: 2%;
+}
+
+
+.hobby{
+  width: 40%;
+  margin: 40px auto 60px;
+  color: #40514e;
+
+}
+
+.btn{
+  margin-left: 20px;
+}
+
+
+
   
   /* footer*/
   
